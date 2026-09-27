@@ -1,6 +1,6 @@
-import_code("/home/5n4k3/source/getlib.src")
-import_code("/home/5n4k3/source/gethacks.src")
-import_code("/home/5n4k3/source/shelltype.src")
+import_code("/home/DanBTech/source/getlib.src")
+import_code("/home/DanBTech/source/gethacks.src")
+import_code("/home/DanBTech/source/shelltype.src")
 
 if params.len > 3 then exit("Usage: autohack [addr] [port] [data]\nport = Can equal 0 for none.")
 if params.len == 2 or params.len == 3 then
