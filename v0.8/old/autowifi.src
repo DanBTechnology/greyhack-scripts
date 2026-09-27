@@ -49,7 +49,7 @@ if option.val == 0 then exit("Quitting wifi autohack...")
 bssid = networks[option.val - 1].split(" ")[0]
 essid = networks[option.val - 1].split(" ")[2]
 
-import_code("/home/5n4k3/source/getlib.src")
+import_code("/home/DanBTech/source/getlib.src")
 
 // Use crypto
 crypt = get_library("crypto.so")
