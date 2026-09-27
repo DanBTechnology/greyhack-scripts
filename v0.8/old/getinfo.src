@@ -1,5 +1,5 @@
-import_code("/home/5n4k3/source/gethacks.src")
-import_code("/home/5n4k3/source/getlib.src")
+import_code("/home/DanBTech/source/gethacks.src")
+import_code("/home/DanBTech/source/getlib.src")
 
 if params.len != 3 then exit("Usage: " + program_path.split("/")[-1] + " [ip] [lan_ip] [bank|mail|passwd]")
 if not is_valid_ip(params[0]) then exit("Error: Invalid IP address given.")
