@@ -1,7 +1,7 @@
-import_code("/home/5n4k3/source/gethacks.src")
-import_code("/home/5n4k3/source/getlib.src")
-import_code("/home/5n4k3/source/loadlib.src")
-import_code("/home/5n4k3/source/shelltype.src")
+import_code("/home/DanBTech/source/gethacks.src")
+import_code("/home/DanBTech/source/getlib.src")
+import_code("/home/DanBTech/source/loadlib.src")
+import_code("/home/DanBTech/source/shelltype.src")
 
 pass = "pass"
 shells = []
